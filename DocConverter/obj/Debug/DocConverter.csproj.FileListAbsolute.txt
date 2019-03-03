@@ -1,0 +1,6 @@
+/home/mongmongi/RiderProjects/DocConverter/DocConverter/bin/Debug/DocConverter.exe
+/home/mongmongi/RiderProjects/DocConverter/DocConverter/bin/Debug/DocConverter.pdb
+/home/mongmongi/RiderProjects/DocConverter/DocConverter/obj/Debug/DocConverter.csprojAssemblyReference.cache
+/home/mongmongi/RiderProjects/DocConverter/DocConverter/obj/Debug/DocConverter.csproj.CoreCompileInputs.cache
+/home/mongmongi/RiderProjects/DocConverter/DocConverter/obj/Debug/DocConverter.exe
+/home/mongmongi/RiderProjects/DocConverter/DocConverter/obj/Debug/DocConverter.pdb
